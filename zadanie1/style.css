@@ -3,18 +3,19 @@ $font-header: 'Bree Serif', serif;
 $font-text: 'Courgette', cursive;
 
 h1 {
-    margin-right:240px;
-    font-family: $font-header ;
-    font-size: 36px;
-    text-align: center;
-
+    margin-left: 240px;
+    margin-top: 240px;
+    font-family: $font-header;
+    font-size: 36px;  
 }
 h2 {
-    margin-right: 400px;
+    margin-left: 400px;
+    margin-top: 10px;
     font-family: $font-text;
     font-size: 24px
     
 }
 p{
     margin-left: 240px;
+    font-size: 18px;
 }
