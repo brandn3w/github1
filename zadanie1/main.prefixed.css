@@ -2,7 +2,9 @@
 $font-header: 'Bree Serif', serif;
 $font-text: 'Courgette', cursive;
 
+
 div{
+display: -ms-flexbox;
 display: flex;
 
 }
