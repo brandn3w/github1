@@ -5,3 +5,4 @@ autoprefixer-cli -o main.prefixed.css style.css
 nu-html-checker:
 
 nu-html-checker *.html
+
